@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3mkbi47mKQnhNK-b4nH_OP6RA4Q",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PeOWTzE7CFHgDD9Scw1dxfjkJ9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qFDTm_TBAcg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T03:00:01Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) PERMISSION TO DANCE ON STAGE - LA Highlights",
+        "description": "BTS PERMISSION TO DANCE ON STAGE - LA About Online Live-Streaming Ticket: https://weverse.onelink.me/qt3S/1d6a579b To Purchase: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qFDTm_TBAcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qFDTm_TBAcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qFDTm_TBAcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T03:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UjVzD9JH5ta62K_aan298h4rlcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8J0QxhGGBk8"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T04:48:01Z",
+        "channelId": "UCVsJ4ra_01ygNeLoGc96cRg",
+        "title": "[실제장면] 한국 BTS LA 콘서트 몰래 보러간 CNN앵커가 갑자기 특종장면 3가지 포착하자 1분간 말문막혀 전세계가 난리난 상황 &quot;일본이 부러워하는 이유가 다 있었네&quot; 해외반응",
+        "description": "국내외 정치 핫이슈들을 진심을 담아 전달해 드립니다 채널 구독 과 좋아요 클릭은 진심TV에 엄청난 힘이 됩니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8J0QxhGGBk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8J0QxhGGBk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8J0QxhGGBk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "진심 TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T04:48:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KNQTJQKmxA10kKlbGK-zTY8LL-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qsIjRd8-AFM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T09:00:19Z",
+        "channelId": "UC2krExUqIXZox1OiqODhTPg",
+        "title": "BTS LA콘서트에서 포착된 미국 최고 가수들 충격적인 실시간 반응",
+        "description": "BTS LA콘서트에서 포착된 미국 최고 가수들 충격적인 실시간 반응 현지에서 난리난 BTS 실시간 반응 아미분들께 빠른 소식을 전하는 올맨쇼가 되겠습니다. 구독과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qsIjRd8-AFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qsIjRd8-AFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsIjRd8-AFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "올맨쇼 [Today's Celeb Story!!!]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rT0LuABS6oISRSXTnp7mOXhw-Yg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vnI95LLdzmQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T10:00:34Z",
+        "channelId": "UCI08eTkq5B6xTjNTxS6h_yQ",
+        "title": "【勝負】ARMYならわかって当然⁉︎りゅうがの歌でBTSイントロクイズ！！",
+        "description": "提供：KRADE INTERNATIONAL BTSタイニータン ブルートゥースマイク https://www.amazon.co.jp/dp/B09KL3M56T?ref=myi_title_dp みんなはなんの曲かわかった ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vnI95LLdzmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vnI95LLdzmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnI95LLdzmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "りゅうが",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T10:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hVKws6ls30DKnj8dl-UcRMydU-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuklIb9d3fI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-09T03:59:12Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+        "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) -SEOUL credits: 1st AD: Jihye Yoon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-09T03:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LbyyHlFjA6LZtwpAueC0eObSvKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V_teAZ0SU5I"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T09:00:11Z",
+        "channelId": "UC2krExUqIXZox1OiqODhTPg",
+        "title": "해외 유튜버들의 방탄 LA콘서트 현장 직캠, 실시간 반응",
+        "description": "해외 유튜버들의 방탄 LA콘서트 현장직캠, 실시간 반응 해외 유튜버들의 방탄 LA콘서트 인증연상!! 현지에서 난리난 BTS 실시간 반응 아미분들께 빠른 소식을 전하는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_teAZ0SU5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_teAZ0SU5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_teAZ0SU5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "올맨쇼 [Today's Celeb Story!!!]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XMrBLV6flwCl4KbSVMu-CJcmv4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmyvK1owVHU"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T23:00:12Z",
+        "channelId": "UCAHvnSzMag_HPzzIehIHmMQ",
+        "title": "BTS CHRISTMAS SONGS 2022 🎄 BTS 크리스마스 노래 2022 ❄",
+        "description": "BTS CHRISTMAS SONGS 2022 BTS 크리스마스 노래 2022 ❄ BTS CHRISTMAS SONGS 2022 BTS 크리스마스 노래 2022 ❄ BTS CHRISTMAS SONGS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmyvK1owVHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmyvK1owVHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmyvK1owVHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "N-D KPOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T23:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ZMXVxO-I3T7zfgkBvRucgk5Zk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TcRGsVa4_Zk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T01:30:03Z",
+        "channelId": "UCObFk8tO4ynNewiW9tJ12hA",
+        "title": "방탄소년단 콘서트 극찬이 이어진 미국 해외언론들의 반응 BTS 콘서트 최고점과 함께 BTS LA Concert PTD ON STAGE 찬사를 보낸 언론들",
+        "description": "방탄소년단 #BTS #Sofi #BTSconcertLA #소파이 #BTSinLA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TcRGsVa4_Zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "라짤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T01:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OKEmzQZv0vKi0dr3rjfnuSuFkxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NWxU2Tqdoio"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T02:48:04Z",
+        "channelId": "UCzWT3oqj7KCqStMnwQS1qng",
+        "title": "[긴급속보] 미국 LA 고속도로를 마비시킨 BTS 방탄소년단 콘서트 무대 진심 당황한 아나운서 현재 실검 1위 BTS LA Concert 2021 PTD ON STAGE",
+        "description": "미국 LA 고속도로를 마비시킨 방탄소년단 팬들이 실시간 화제입니다. BTS 콘서트 직후 고속도로에서 팬들은 BTS 노래를 따라부르며 실시간 난리난 반응입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWxU2Tqdoio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWxU2Tqdoio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWxU2Tqdoio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "케이튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T02:48:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "agXDby85W2CiLYwr2n9o1txnfXk",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-17T03:20:38Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BANGTANTV",
+        "description": "방탄소년단 공식 유튜브 채널 입니다. This is the Official YouTube channel for BTS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLQI3F21pwr5uuoicAc2D9iCP-8aIIy7DY7W-4ztwQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-17T03:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SlYiAT5P08Ak9SU-O7cvPk4iPBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RDWSVl-7cTI"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T08:45:01Z",
+        "channelId": "UCLJDFiz0MDopiKWH5qkaBKw",
+        "title": "BTS, 2년 만의 미국 콘서트 소식을 일제히 전한 일본 아침 방송 총정리 - 콘서트 스타디움에서 전해진 훈훈한 소식",
+        "description": "라미 광복절 특집 언론 인터뷰 https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=047&aid=0002280815 ※ 일본 방송 연구소 후원 계좌 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDWSVl-7cTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDWSVl-7cTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDWSVl-7cTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "라미TV - 대한일본방송언론연구소",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T08:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d1RM6MQCHz2ES0YCn5AUhq5EJqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4R0fGSb3P0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-28T05:16:10Z",
+        "channelId": "UCnqkClmpkbi2xRjttuYPvWw",
+        "title": "211127 BTS/방탄소년단 &#39;Blood Sweat &amp; Tears + Fake Love&#39; @PTD ON STAGE LA DAY 1 SoFi Stadium",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4R0fGSb3P0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4R0fGSb3P0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4R0fGSb3P0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTS LIVE 2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-28T05:16:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p6_7_1ooKxoV-eJxXXvL90dTI_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z7XAz3nLFTQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T12:00:25Z",
+        "channelId": "UC2b95z-7qEMue4u_D0I2dLA",
+        "title": "【速報】BTSの兵役優遇の可能性は消えた？！ ハイブ株価が急激に下がる理由は、、、",
+        "description": "BTSの専門チャンネル、BTSの協会です。 主に、BTSのニュース、BTSへの海外の反応をお届けします。ご視聴ありがとうございました。 ☆チャンネル登録こちら↓ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z7XAz3nLFTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTS協会",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T12:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FtVGDIuJ4cj3G87_Hn9CYZB97PA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FSSQQc63Z8U"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T01:50:13Z",
+        "channelId": "UCCJqV51jBRllaV3c-wXc3pg",
+        "title": "BTS &#39;Permission to Dance&#39; at SoFi Day 2 from Section 529, Row 14",
+        "description": "Hey guys! So I know some of you have wondered what happened after \"My BTS Pre-Sale Ticket Buying Experience\" vlog. BTS, thank you to the folks who wrote ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FSSQQc63Z8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FSSQQc63Z8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FSSQQc63Z8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anji Bee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T01:50:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UkOu5maN-P3qdRpWLDuw78obA7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DJPhgJBJBB0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T20:45:01Z",
+        "channelId": "UCPnyWr2K0yjPsmGV-pO_1vQ",
+        "title": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음",
+        "description": "B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL PLAYLIST NEW SONGS 2021 (Update) 방탄소년단 노래 모음 B T S ALL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJPhgJBJBB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJPhgJBJBB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJPhgJBJBB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "음악적감정",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T20:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S-eybumKu0jn4JuC3kHYrFakCx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J7APHkd6Y4o"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T07:07:42Z",
+        "channelId": "UC6rPI_VXOyakUh_9LUk9BZA",
+        "title": "211128 Permission to Dance on Stage in LA - Dynamite+Butter / BTS V / 방탄소년단 뷔 (4K fancam)",
+        "description": "NUNA V(누나비) for BTS V Dynamite (Tropical Remix)+Butter (Feat. Megan Thee Stallion) 신나서 뛰어다니면서 무대하는 태형이 너무너무 귀엽구 예뻐요   Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7APHkd6Y4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7APHkd6Y4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7APHkd6Y4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NUNA V",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T07:07:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FLBIBIagrsIG4fqEeFjT9ps6ubY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5xsbcXeKKDE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T04:48:37Z",
+        "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+        "title": "“BTS 왔다”…2년 기다린 전 세계 아미 LA로 총집결 | 뉴스A 라이브",
+        "description": "BTS 왔다”…2년 기다린 전 세계 아미 LA로 총집결 □ 방송 : 채널A 뉴스A 라이브 (12:00~13:20) □ 방송일 : 2021년 11월 30일 (화요일) □ 진행 : 황순욱 앵커 □ 출연 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5xsbcXeKKDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5xsbcXeKKDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5xsbcXeKKDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널A 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T04:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dbXLYVlgGqnfQqnd3fvAgOAOBv8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YiwyfXzehJM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T11:00:13Z",
+        "channelId": "UCSg6Jb-pD_8j-9SPCxOS_tA",
+        "title": "【ジミン】BTS「Black Swan」Dance Practice観たら心臓止まりかけた。",
+        "description": "【ジミン】BTS「Black Swan」Dance Practice観たら心臓止まりかけた。 #bts #blackswan #ジミン.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YiwyfXzehJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YiwyfXzehJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YiwyfXzehJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "嵐に会いたいダンサーやす",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T11:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xLrxqC_KR-vigRPKXEq7xKjVFEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RCKIiMp0lNk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T07:25:28Z",
+        "channelId": "UCmFOVY6VfwQTnQVLVgPq7wQ",
+        "title": "211128 PTD on Stage LA IDOL 지민 직캠 BTS JIMIN FOCUS FANCAM",
+        "description": "goodday_1013.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCKIiMp0lNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCKIiMp0lNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCKIiMp0lNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "너라서 좋은 날",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T07:25:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLo-h_fZdZ_t0CRS0w2BYrHcXN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXTI2cRl-zs"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T04:15:53Z",
+        "channelId": "UC6kHD41Nogfpidnwzqcb80Q",
+        "title": "BTS 콘서트에 LA가 들썩인다!코리아타운 특수?방탄 한류로 대박난 한국 까페!드래곤 보바집 믿기힘든 줄선 이유?",
+        "description": "bts #방탄소년단.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXTI2cRl-zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXTI2cRl-zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXTI2cRl-zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MC 선화 MC Sunwha",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T04:15:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c_LnKupW-gscAe-xUTK5R7uesa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FEGghaMuBdM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T11:45:31Z",
+        "channelId": "UCzWT3oqj7KCqStMnwQS1qng",
+        "title": "[긴급속보] 미국 LA 놀이공원에 나타난 BTS 방탄소년단 멤버 갑자기 눈물 흘리는 팬들 실시간 외국인 반응 BTS LA Concert 2021 PTD ON STAGE",
+        "description": "미국 놀이공원에 방탄소년단 멤버가 등장했다는 긴급 속보입니다. BTS 멤버를 봤다는 목격담이 올라오면서 제대로 난리난 반응입니다. #BTS #방탄소년단 #해외 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FEGghaMuBdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FEGghaMuBdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FEGghaMuBdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "케이튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T11:45:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "28zCo0f6iZWwd0BESW2tTwp-rLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kzg7GkMNWo4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T08:23:18Z",
+        "channelId": "UC5V0pRiH7iUqkdmBMKt94_A",
+        "title": "[ENG SUB] BTS SUGA LIVE VLIVE (2021.11.29) BTS VLIVE 2021",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kzg7GkMNWo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kzg7GkMNWo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kzg7GkMNWo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mosalsalalrayan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T08:23:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u3Pcp_RXSAY6q8fLgBqhi485mUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qd17KIYN2pk"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T00:02:18Z",
+        "channelId": "UC5HSw5OY2vfVFSihpiB-AVQ",
+        "title": "BTS, 2년 만에 대면 콘서트...미국 LA 열기 &#39;후끈&#39;(김영대) / FA된 이승우, 새 둥지 틀 리그는? &amp; MLB 도전 마친 양현종(박동희,박문성) [김어준의 뉴스공장]",
+        "description": "11월 30일(화) 김어준의 뉴스공장 ◎ 4부 [문화공장] BTS, 미국서 2년 만에 대면 콘서트 개최 \"LA 전체가 축제 분위기.. 대규모 공연 부활 신호탄\" - 김영대 음악평론가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qd17KIYN2pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qd17KIYN2pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qd17KIYN2pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TBS 시민의방송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T00:02:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "98Qt_nXxBv2dKMjqHt-IGXv-DLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lx1qTO2o6pw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-29T12:20:57Z",
+        "channelId": "UCyaeHc2ZiscY5Ff9UTgOPZQ",
+        "title": "알고보니 팬들 눈물나게 한다는 방탄소년단 브이앱 속 광고언급 후 반응 BTS Vlive",
+        "description": "방탄브이앱 #뒷광고 #신라면 #지민 #뷔 #정국 #BTS #콘서트 #브이라이브 방탄소년단 브이앱 중 갑자기 나타난 현상.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lx1qTO2o6pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lx1qTO2o6pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lx1qTO2o6pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "에피소드방탄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-29T12:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oq6iVOsBET_aD2qZCa6Ndb7Z-kE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rjV7GK0ID5Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T03:54:54Z",
+        "channelId": "UCe6PVd1NY2TjROInvw7iTKA",
+        "title": "Linton Reacts to Who Is BTS?",
+        "description": "Request the next video: https://www.patreon.com/lintonwilson Watch survival series with me: https://www.patreon.com/lintonwilson ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjV7GK0ID5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Linton Wilson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T03:54:54Z"
+      }
+    }
+  ]
+}
