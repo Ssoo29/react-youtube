@@ -36,7 +36,8 @@ class Youtube {
         this.getRequestOptions
       );
       if (response.status === 403) {
-        return searchList.items.map((item) => {
+        const videoList = searchList.items.filter((item) => item.id.videoId);
+        return videoList.map((item) => {
           return { ...item, id: item.id.videoId };
         });
       } else if (response.status === 200) {
