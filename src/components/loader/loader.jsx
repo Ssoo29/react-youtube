@@ -1,11 +1,11 @@
 import React from "react";
 import styles from "./loader.module.css";
-import Spinner from "react-loader-spinner";
+import { List } from "react-content-loader";
 
 const Loader = () => {
   return (
     <div className={styles.container}>
-      <Spinner type="Oval" color="#3498db"/>
+      <List></List>
     </div>
   );
 };

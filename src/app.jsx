@@ -32,6 +32,7 @@ function App({ youtube }) {
   };
 
   useEffect(() => {
+    setLoading(true);
     youtube
       .mostPopular() //
       .then((videos) => {
