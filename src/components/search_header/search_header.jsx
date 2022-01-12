@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 
-const SearchHeader = ({ onSearch }) => {
+const SearchHeader = ({ onSearch, toMain }) => {
   const inputRef = useRef();
   const handleSearch = () => {
     onSearch(inputRef.current.value);
@@ -19,9 +19,14 @@ const SearchHeader = ({ onSearch }) => {
       handleSearch();
     }
   };
+
+  const onClickLogo = () => {
+    toMain();
+  };
+
   return (
     <header className={styles.header} onKeyPress={onKeyPress}>
-      <div className={styles.logo}>
+      <div className={styles.logo} onClick={onClickLogo}>
         <FontAwesomeIcon className={styles.img} icon={faYoutube} size="2x" />
         <h1 className={styles.title}>Youtube</h1>
       </div>
