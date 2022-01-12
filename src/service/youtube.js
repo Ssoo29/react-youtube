@@ -19,7 +19,7 @@ class Youtube {
       if (response.status === 403) {
         return mostPopular;
       } else if (response.status === 200) {
-        const responseJson = response.json();
+        const responseJson = await response.json();
         return responseJson;
       } else {
         throw new Error("Unexpected Http Status Code");
@@ -41,7 +41,7 @@ class Youtube {
           return { ...item, id: item.id.videoId };
         });
       } else if (response.status === 200) {
-        const responseJson = response.json();
+        const responseJson = await response.json();
         return responseJson.items.map((item) => {
           return { ...item, id: item.id.videoId };
         });

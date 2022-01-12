@@ -20,8 +20,7 @@ const SearchHeader = ({ onSearch }) => {
     }
   };
   return (
-    <header className={styles.header} 
-    onKeyPress={onKeyPress}>
+    <header className={styles.header} onKeyPress={onKeyPress}>
       <div className={styles.logo}>
         <FontAwesomeIcon className={styles.img} icon={faYoutube} size="2x" />
         <h1 className={styles.title}>Youtube</h1>
@@ -32,11 +31,7 @@ const SearchHeader = ({ onSearch }) => {
         type="search"
         placeholder="Search..."
       />
-      <button
-        className={styles.button}
-        type="submit"
-        onClick={onClick}
-      >
+      <button className={styles.button} type="submit" onClick={onClick}>
         <FontAwesomeIcon icon={faSearch} className="search" />
       </button>
     </header>
