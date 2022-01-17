@@ -2,54 +2,47 @@ import mostPopular from "../mockData/mostPopular";
 import searchList from "../mockData/videoList";
 
 class Youtube {
-  constructor(key) {
-    this.key = key;
-    this.getRequestOptions = {
-      method: "GET",
-      redirect: "follow",
-    };
+  constructor(httpClient) {
+    this.youtube = httpClient;
   }
 
   async mostPopular() {
     try {
-      const response = await fetch(
-        `https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResult=25&key=${this.key}`,
-        this.getRequestOptions
-      );
-      if (response.status === 403) {
-        return mostPopular;
-      } else if (response.status === 200) {
-        const responseJson = await response.json();
-        return responseJson;
-      } else {
-        throw new Error("Unexpected Http Status Code");
-      }
+      const response = await this.youtube.get('videos', {
+        params: {
+          part: 'snippet',
+          chart: 'mostPopular',
+          maxResults: 25
+        }
+      })
+      if (response.status === 403) return mostPopular;
+      return response.data;
     } catch (error) {
-      return console.error("error: ", error);
+      console.error("error: ", error);
     }
   }
 
   async search(query) {
     try {
-      const response = await fetch(
-        `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${query}&type=video&key=${this.key}`,
-        this.getRequestOptions
-      );
+      const response = await this.youtube.get('search', {
+        params: {
+          part: 'snippet',
+          maxResults: 25,
+          q: query,
+          type: 'video'
+        }
+      })
       if (response.status === 403) {
         const videoList = searchList.items.filter((item) => item.id.videoId);
         return videoList.map((item) => {
           return { ...item, id: item.id.videoId };
         });
-      } else if (response.status === 200) {
-        const responseJson = await response.json();
-        return responseJson.items.map((item) => {
-          return { ...item, id: item.id.videoId };
-        });
-      } else {
-        throw new Error("Unexpected Http Status Code");
-      }
+      } 
+      return response.data.items.map((item) => {
+        return { ...item, id: item.id.videoId };
+      });
     } catch (error) {
-      return console.log("error", error);
+      console.log("error", error);
     }
   }
 }
