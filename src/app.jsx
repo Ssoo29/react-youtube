@@ -41,6 +41,7 @@ function App({ youtube }) {
         setLoading(false);
       });
   }, []);
+
   return (
     <div className={styles.app}>
       <SearchHeader onSearch={search} toMain={toMain} />
